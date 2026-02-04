@@ -1,0 +1,6 @@
+name = "random-word-api"
+main = "dist/index.js"
+compatibility_date = "2026-02-04"
+
+[build]
+command = "npm run build"
